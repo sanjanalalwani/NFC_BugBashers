@@ -1,0 +1,36 @@
+.mainpage{
+    height: 200px;
+    width: 100%;
+    background-color: rgba(146, 155, 163, 0.497);
+}
+
+.mainpage h5{
+    display: block;
+    margin-top: 20px;
+  padding-top: 20px;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainpage h4{
+    text-decoration: none;
+    margin-top: 40px;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.mainpage h3{
+    text-decoration: none;
+    margin-top: 10px;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
