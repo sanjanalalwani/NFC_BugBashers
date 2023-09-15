@@ -9,7 +9,7 @@ import Footer from './screens/Footer';
 import Expense from './screens/Expense';
 import Module from './screens/Module';
 import Module1 from './screens/Module1';
-
+import Module2 from './screens/Module2'
 
 function App() {
   return (
@@ -25,6 +25,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/module" element={<Module />} />
           <Route path="/module1" element={<Module1/>} />
+          <Route path="/module2" element={<Module2/>} />
         </Routes>
        
         <Footer />
