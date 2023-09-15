@@ -9,23 +9,23 @@ export default function Home(){
             <img src="home page image.jpg" alt="" className="doodle" />
             <div className="cards">
                 <div className="card">
-                    <img src="" alt="" />
+                    <img src="module icon.png" alt="" /><hr></hr>
                     <h2>MODULES</h2>
                 </div>
                 <div className="card">
-                    <img src="" alt="" />
+                    <img src="community icon.png" alt="" /><hr></hr>
                     <h2>COMMUNITY</h2>
                 </div>
                 <div className="card">
-                    <img src="" alt="" />
+                    <img src="" alt="" /><hr></hr>
                     <h2>GAME</h2>
                 </div>
                 <div className="card">
-                    <img src="" alt="" />
+                    <img src="" alt="" /><hr></hr>
                     <h2>EXPENSE TRACKER</h2>
                 </div>
                 <div className="card">
-                    <img src="" alt="" />
+                    <img src="" alt="" /><hr></hr>
                     <h2>QUIZ</h2>
                 </div>
             </div>
