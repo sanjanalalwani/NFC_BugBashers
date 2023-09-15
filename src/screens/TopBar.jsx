@@ -32,6 +32,7 @@ export default function TopBar() {
                 LOGIN
               </Link>
             </li>
+           
           </ul>
         </div>
         <Outlet /> {/* This is where nested routes will be rendered */}
