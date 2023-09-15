@@ -15,13 +15,15 @@ export default function Home(){
                     <h2>MODULES</h2>
                 </div>
                 </Link>
-                <Link to="/community" className="nav-link" id="tracker">
+                <a href="http://127.0.0.1:8000/">
                 <div className="card">
                     <img src="new community icon.png" alt="" id="com-icon"/><hr></hr>
                     <h2>COMMUNITY</h2>
                 </div>
                 </Link>
                 <Link to="/jobs" className="nav-link" id="tracker">
+                </a>
+                <Link to="/job" className="nav-link" id="tracker">
                 <div className="card">
                     <img src="job logo.png" alt="" id="game-icon"/><hr></hr>
                     <h2>JOBS</h2>
@@ -33,10 +35,10 @@ export default function Home(){
                 <h2>EXPENSE TRACKER</h2>
                 </div>
               </Link>
-              <Link to="/quiz" className="nav-link" id="tracker">
+              <Link to="/resources" className="nav-link" id="tracker">
                 <div className="card">
                     <img src="quiz icon.png" alt="" id="quiz-icon"/><hr></hr>
-                    <h2>QUIZ</h2>
+                    <h2>RESOURCES</h2>
                 </div>
                 </Link>
             </div>

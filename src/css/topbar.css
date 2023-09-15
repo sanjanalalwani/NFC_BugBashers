@@ -9,14 +9,12 @@
     z-index: 1000;
 }
 
-
 .topRight{
     flex: 3;
    display: flex;
    align-items: center;
    justify-content: center;
 }
-
 
 .topLeft img{
     margin-left: 45px;
