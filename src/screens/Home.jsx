@@ -10,11 +10,11 @@ export default function Home(){
             <img src="home page image.jpg" alt="" className="doodle" />
             <div className="cards">
                 <div className="card">
-                    <img src="module icon.png" alt="" /><hr></hr>
+                    <img src="module icon.png" alt="" id="module-icon"/><hr></hr>
                     <h2>MODULES</h2>
                 </div>
                 <div className="card">
-                    <img src="new community icon.png" alt="" /><hr></hr>
+                    <img src="new community icon.png" alt="" id="com-icon"/><hr></hr>
                     <h2>COMMUNITY</h2>
                 </div>
                 <div className="card">
@@ -22,7 +22,7 @@ export default function Home(){
                     <h2>GAME</h2>
                 </div>
                 <div className="card">
-                    <img src="expense tracker icon.jpg" alt="" /><hr></hr>
+                    <img  src="new expense tracker icon.jpg" alt="" id="expense-icon"/><hr></hr>
                     <Link to="/expense" className="nav-link" id="tracker">
                 <h2>EXPENSE TRACKER</h2>
               </Link>

@@ -7,6 +7,9 @@
     margin-left: 770px;
     margin-top: 100px;
 }
+#module-icon{
+    height: 100px;
+}
 
 .content{
     width:700px;
@@ -51,10 +54,16 @@
     border-radius: 20px;
     box-shadow:0px  0px 5px rgb(132, 129, 129);
 }
+#com-icon{
+    height: 100px;
+}
 
 #tracker{
     color: black;
     text-decoration: none;
+}
+#expense-icon{
+height: 100px;
 }
 .card h2{
     margin-top: 5px;
