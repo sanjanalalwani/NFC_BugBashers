@@ -1,5 +1,6 @@
 import React from "react";
 import "../css/home.css"
+import { Link } from 'react-router-dom'; 
 
 export default function Home(){
     return(
@@ -23,6 +24,10 @@ export default function Home(){
                 <div className="card">
                     <img src="" alt="" /><hr></hr>
                     <h2>EXPENSE TRACKER</h2>
+                    <img src="" alt="" />
+                    <Link to="/expense" className="nav-link">
+                <h2>Expense Tracker</h2>
+              </Link>
                 </div>
                 <div className="card">
                     <img src="" alt="" /><hr></hr>
