@@ -139,7 +139,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-       <button className="quizy">Take a Quiz!</button>
+      <a href="/quiz"><button className="quizy">Take a Quiz!</button></a>
 </div>
 
     )

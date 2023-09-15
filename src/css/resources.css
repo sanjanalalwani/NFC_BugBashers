@@ -1,0 +1,51 @@
+.boxy{
+    margin-bottom: 100px;
+}
+.dabba1 a{
+    text-decoration: none;
+    color: black;  
+}
+
+.dabba1{
+    margin: 20px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    flex: 4;
+}
+.rcard img{
+    width:100px;
+    margin-left:100px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.rcard{
+    margin: 30px;
+    height: 300px;
+    width:300px;
+    border-radius: 20px;
+    box-shadow:0px  0px 10px rgb(132, 129, 129);
+    transition: 0.4s ease-in-out;
+}
+
+.rcard p{
+    margin:10px;
+}
+
+.head{
+    background-color: rgb(154, 224, 165);
+    width:385px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 590px;
+    font-size: 30px;
+    box-shadow: 1px 1px 6px 3px rgba(0, 0, 0, 0.1);
+}
+
+.rcard:hover{
+    transform: scale(1.1);
+}

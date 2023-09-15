@@ -10,7 +10,7 @@ import Expense from './screens/Expense';
 import Module from './screens/Module';
 import Community from './screens/Community';
 import Quiz from './screens/Quiz';
-
+import Resources from './screens/Resources';
 
 
 
@@ -50,6 +50,7 @@ function App() {
         
           <Route path="/community" element={<Community />}/>
           <Route path="/quiz" element={<Quiz/>}/>
+          <Route path="/resources" element={<Resources/>}/>
         </Routes>
        
         <Footer />
