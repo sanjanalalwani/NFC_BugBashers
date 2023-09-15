@@ -2,13 +2,13 @@ import React from "react";
 import "../css/module1.css";
 import { Link } from 'react-router-dom'; 
 
-export default function Module2(){
+export default function Module5(){
     return (
         <div>
-        <div className="title"><span>Module 2:</span> <p>Budgeting and Saving</p></div>
+        <div className="title"><span>Module 5:</span> <p>Managing Debt Responsibly </p></div>
         <hr className="line"></hr>
         <div className="box">
-       <iframe src="https://www.youtube.com/embed/AIOR1x7fPcQ?si=5kzbRxV5xkmsL6gC" className="video" frameborder="0" ></iframe>
+       <iframe src="https://www.youtube.com/embed/Vl4PUQwHHNg?si=JGbScypvWHEyl4L9" className="video" frameborder="0" ></iframe>
       <p> Lesson 1: Types of Income <br />
 
 Introduction:
