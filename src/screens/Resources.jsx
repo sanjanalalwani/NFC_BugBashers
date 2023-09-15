@@ -9,34 +9,34 @@ export default function Resources(){
     <div className="dabba1">
         <a href="">
         <div className="rcard">
-            <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+            <img src="axis logo.png" alt="" />
+        <h2>Axis Bank </h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
+
         </div>
         </a>
         <a href="">
         <div className="rcard">
-            <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+            <img src="hdfc logo.png" alt="" />
+        <h2>HDFC Bank</h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
+            
         </div>
         </a>
         <a href="">
         <div className="rcard">
-            <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+            <img src="icici logo.png" alt="" />
+        <h2>ICICI Bank</h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
+            
         </div>
         </a>
         <a href="">
         <div className="rcard">
-            <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+            <img src="kotak logo.png" alt="" id="kotak"/>
+        <h2>Kotak Mahindra Bank</h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
+            
         </div>
         </a>
     </div>
@@ -46,33 +46,31 @@ export default function Resources(){
         <a href="">
         <div className="rcard">
             <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+        <h2>NEFT</h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
+            
         </div>
         </a>
         <a href="">
         <div className="rcard">
             <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+        <h2>Mutual Funds</h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
+            
         </div>
         </a>
         <a href="">
         <div className="rcard">
             <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+        <h2>Cryptocurrency</h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
         </div>
         </a>
         <a href="">
         <div className="rcard">
             <img src="new community icon.png" alt="" />
-        <h2>State Bank of India (SBI)</h2>
+        <h2>Mobile Wallets</h2>
             <hr></hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quam nihil accusamus quos atque vitae nemo dolores ratione commodi cumque.</p>
         </div>
         </a>
     </div>

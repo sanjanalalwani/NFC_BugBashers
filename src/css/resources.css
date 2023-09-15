@@ -22,7 +22,7 @@
 
 .rcard{
     margin: 30px;
-    height: 300px;
+    height: 250px;
     width:300px;
     border-radius: 20px;
     box-shadow:0px  0px 10px rgb(132, 129, 129);
@@ -48,4 +48,13 @@
 
 .rcard:hover{
     transform: scale(1.1);
+}
+
+#kotak{
+    margin-left: 70px;
+    width: 150px;
+}
+
+.rcard hr{
+    margin:15px;
 }
