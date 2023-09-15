@@ -5,7 +5,7 @@ export default function Home(){
     return(
         <div className="home">
             <div className="content"><h1>Welcome to <span className="wealth">संपत्ति,</span></h1>
-            <p>where we empower individuals with essential financial knowledge. <br />Our mission is to equip individuals and families with the tools they need to achieve lasting financial stability and independence.</p></div>
+            <p>where financial knowledge meets opportunity. Our platform is dedicated to equipping the underprivileged with essential financial literacy skills. Through interactive modules, personalized guidance, and a supportive community, we empower individuals to take control of their financial future. Join us in building a more financially inclusive world, one step at a time.</p></div>
             <img src="home page image.jpg" alt="" className="doodle" />
             <div className="cards">
                 <div className="card">

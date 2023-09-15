@@ -1,5 +1,8 @@
+.body{
+    width:min-content;
+}
 .home img{
-    margin-left: 900px;
+    margin-left: 800px;
     margin-top: 100px;
 }
 
@@ -28,13 +31,15 @@
 }
 
 .cards{
-    margin: 10px;
+    margin-top: 50px;
     display: flex;
 }
 
 .card{
+    margin: 20px;
     height: 180px;
-    width:300px;
+    width:250px;
+    box-shadow:0px  0px 5px rgb(132, 129, 129);
 }
 
 .card h2{
