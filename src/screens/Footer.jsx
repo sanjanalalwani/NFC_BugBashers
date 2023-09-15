@@ -6,7 +6,7 @@ export default function Footer(){
         <div className="mainpage">
              <h5>CONTACT DETAILS</h5>
     <a href="mailto:j.drenee04@gmail.com">
-      <h4>j.drenee04@gmail.com</h4>
+      <h4>edu.sampati@gmail.com</h4>
     </a>
     <h3>9769565652</h3>
     <div class="icons">

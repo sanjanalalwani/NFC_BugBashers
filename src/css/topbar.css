@@ -1,7 +1,7 @@
 .top{
     width: 100%;
     height: 80px;
-    background-color: #b1d675;
+    background: linear-gradient(rgb(15, 101, 38), rgb(39, 123, 43), rgb(63, 158, 90),rgb(99, 194, 126),rgb(170, 222, 185),rgb(253, 247, 247));
     position: sticky;
     top: 0;
     display: flex;
@@ -30,7 +30,7 @@
     text-decoration: none;
     font-weight: 1000;
     font-size: 45px;
-    color: rgba(84, 56, 168, 0.97);
+    color: rgba(69, 46, 125, 0.97);
 }
 .menu-bars{
     margin-left: 2rem;

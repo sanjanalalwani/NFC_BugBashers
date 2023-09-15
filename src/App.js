@@ -14,6 +14,8 @@ import Quiz from './screens/Quiz';
 
 
 
+import Module1 from './screens/Module1';
+import Module2 from './screens/Module2'
 
 function App() {
   return (
@@ -28,9 +30,10 @@ function App() {
           <Route path="/expense"element={<Expense />}/>
           <Route path="/login" element={<Login />} />
           <Route path="/module" element={<Module />} />
-          <Route path="/community" element={<Community />} />
-          <Route path="/quiz" element={<Quiz />}/>
-         
+          <Route path="/module1" element={<Module1/>} />
+          <Route path="/module2" element={<Module2/>} />
+          <Route path="/community" element={<Community />}/>
+          <Route path="/quiz" element={<Quiz/>}/>
         </Routes>
        
         <Footer />

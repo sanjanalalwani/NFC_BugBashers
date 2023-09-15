@@ -10,8 +10,12 @@ import { GlobalProvider } from "./GlobalState";
 
 export default function Expense(){
     return(<>
-        
-<div className="dabba">
+    <div className="page">  
+      <div className="info">
+        <h1>Expense Tracker</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quam repudiandae dolorem facere obcaecati sed ducimus repellendus adipisci facilis cum.</p>
+      </div>
+  <div className="dabba">
   <h2>Expense Tracker</h2>
   <div className="container">
     <Balance />
@@ -21,6 +25,7 @@ export default function Expense(){
   </div>
   <GlobalProvider/>
 </div>
+</div>  
 </>
     )
 }

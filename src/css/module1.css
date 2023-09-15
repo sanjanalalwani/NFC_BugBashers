@@ -1,0 +1,45 @@
+.title{
+
+    margin-top:20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    display:flex;
+}
+
+.title span{
+    font-size: 50px;
+    font-family: Garamond, serif;
+}
+
+.line{
+    margin-left: 100px;
+    position: absolute;
+    top:180px;
+    width: 1000px;
+}
+.title p{
+    font-size: 50px;
+    margin-left: 15px;
+    font-family: Garamond, serif;
+}
+
+.video{
+    margin-top: 35px;
+    margin-left:100px;
+    height: 350px;
+    width:500px;
+}
+
+.box{
+    display:flex;
+    height: 1700px;
+}
+
+.box p{
+    position:absolute;
+    margin-left: 650px;
+    padding-top: 30px;
+    padding-right: 20px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
