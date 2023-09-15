@@ -38,6 +38,16 @@ function App() {
           <Route path="/module" element={<Module />} />
           <Route path="/module1" element={<Module1/>} />
           <Route path="/module2" element={<Module2/>} />
+          <Route path="/module3" element={<Module3/>} />
+          {/* <Route path="/module4" element={<Module4/>} /> */}
+          <Route path="/module5" element={<Module5/>} />
+          <Route path="/module6" element={<Module6/>} />
+          <Route path="/module7" element={<Module7/>} />
+          <Route path="/module8" element={<Module8/>} />
+          <Route path="/module9" element={<Module9/>} />
+        
+        
+        
           <Route path="/community" element={<Community />}/>
           <Route path="/quiz" element={<Quiz/>}/>
         </Routes>
