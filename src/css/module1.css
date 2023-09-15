@@ -1,0 +1,29 @@
+.title{
+
+    margin-top:30px;
+    padding: 40px;
+    display:flex;
+}
+
+.title span{
+    font-size: 50px;
+    font-family: Garamond, serif;
+}
+
+.line{
+    margin-left: 45px;
+    position: absolute;
+    top:225px;
+    width: 1000px;
+}
+.title p{
+    font-size: 50px;
+    margin-left: 15px;
+    font-family: Garamond, serif;
+}
+
+.video{
+    margin:50px;
+    height: 350px;
+    width:500px;
+}
