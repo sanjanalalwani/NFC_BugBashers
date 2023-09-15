@@ -138,7 +138,9 @@ export default function Module(){
       <div class="go-corner">
         <div class="go-arrow">→</div>
       </div>
-    </div></Link></div>
+    </div></Link>
+       <button className="quizy">Take a Quiz!</button>
+</div>
 
     )
 }
