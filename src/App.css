@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-.home, .settings, .help, .profile, .logout{
+.support, .settings, .help, .profile, .logout{
   display: flex;
   height: 90vh;
   align-items: center;
