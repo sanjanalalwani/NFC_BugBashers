@@ -1,6 +1,7 @@
 .body{
-    max-width: 100%;
+    max-width: fit-content;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 .doodle{
     width:700px;
@@ -39,7 +40,7 @@
     margin-left: 25px;
     margin-top: 200px;
     display: flex;
-    margin-bottom: 250px;
+    margin-bottom: 100px;
 }
 
 .cards img{

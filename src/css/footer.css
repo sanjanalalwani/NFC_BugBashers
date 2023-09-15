@@ -1,25 +1,27 @@
 .mainpage{
-    height: 200px;
+    display: flex ;
+    height: 45px;
     width: 100%;
     background-color: #cccdca;
 }
 
 .mainpage h5{
     display: block;
-    margin-top: 20px;
-  padding-top: 20px;
+    margin-top: 2px;
+    padding-left: 150px;
+  padding-top: 10px;
     color: black;
     font-size: 15px;
-    text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .mainpage h4{
     text-decoration: none;
-    margin-top: 40px;
+    margin-top: 2px;
+    margin-left: 200px;
+    padding-top: 10px;
     color: black;
     font-size: 15px;
-    text-align: center;
     font-weight: lighter;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
@@ -27,7 +29,9 @@
 
 .mainpage h3{
     text-decoration: none;
-    margin-top: 10px;
+    margin-top: 2px;
+    margin-left: 200px;
+    padding-top: 10px;
     color: black;
     font-size: 15px;
     text-align: center;
@@ -37,7 +41,9 @@
 
 .icons{
     width: 300px;
-    margin-left: 650px;
+    margin-top: 2px;
+    margin-left: 150px;
+    padding-top: 10px;
 }
 
 .icons ion-icon{
