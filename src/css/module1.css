@@ -32,7 +32,7 @@
 
 .box{
     display:flex;
-    height: 1700px;
+    height: 400px;
 }
 
 .box p{
@@ -40,6 +40,13 @@
     margin-left: 650px;
     padding-top: 30px;
     padding-right: 20px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box2{
+    padding-right: 20px;
+    margin-left:100px;
     font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
 }

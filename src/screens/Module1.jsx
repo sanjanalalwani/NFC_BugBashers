@@ -9,7 +9,7 @@ export default function Module1(){
         <hr className="line"></hr>
         <div className="box">
        <iframe src="https://www.youtube.com/embed/eAUIM4rFEVg?si=A8bJ_NDRjJvEmw9n" className="video" frameborder="0" ></iframe>
-      <p> Lesson 1: Types of Income <br />
+       <p> Lesson 1: Types of Income <br />
 
 Introduction:
 Understanding the various types of income is fundamental to gaining control over your financial life. In this lesson, we will explore the different sources of income and how they contribute to your overall financial well-being. <br /><br />
@@ -19,8 +19,8 @@ Types of Income: <br /><br />
 Earned Income:
 
 Definition: Earned income refers to money earned through active participation in a job or business. It is the compensation you receive in exchange for your time, skills, and expertise.
-Examples: Salaries, wages, commissions, freelance income, and business profits fall under earned income.<br />
-<br />Passive Income:<br />
+Examples: Salaries, wages, commissions, freelance income, and business profits fall under earned income.<br /></p></div>
+<div className="box2"><br />Passive Income:<br />
 
 Definition: Passive income is earned with little or no direct effort from the recipient. It often comes from investments or activities that require upfront work but can generate revenue over time.
 Examples: Rental income, dividends from investments, royalties from creative works.<br />
@@ -54,7 +54,6 @@ Maintain a physical or digital journal to manually record all expenses. Review i
 Tracking expenses provides a clear picture of your financial habits. It enables you to identify areas where you may be overspending and allows for more intentional decision-making when it comes to budgeting and saving.<br /><br />
 
 By mastering the understanding of income types and implementing effective expense tracking techniques, you lay a strong foundation for taking control of your financial journey. Remember, financial empowerment starts with knowledge and mindful money management.<br />
-</p>
 </div>
         </div>
     )

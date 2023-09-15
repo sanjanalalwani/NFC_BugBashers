@@ -15,7 +15,13 @@ import Quiz from './screens/Quiz';
 
 
 import Module1 from './screens/Module1';
-import Module2 from './screens/Module2'
+import Module2 from './screens/Module2';
+import Module3 from './screens/Module3';
+import Module5 from './screens/Module5';
+import Module6 from './screens/Module6';
+import Module7 from './screens/Module7';
+import Module8 from './screens/Module8';
+import Module9 from './screens/Module9';
 
 function App() {
   return (
