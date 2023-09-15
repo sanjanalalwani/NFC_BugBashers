@@ -1,0 +1,79 @@
+
+.job_card {
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    border-radius: 30px;
+    color: #0c0c0c;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    transition: background-color 0.3s, box-shadow 0.3s;
+  }
+  
+  .job_card:hover {
+    background-color: #ed5959;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Styles for the card image */
+   .job_card-image {
+    width: 100%;
+    height: 500px;
+    background-color: #00bcd4;
+    border-radius: 20px;
+  } 
+  
+  /* Styles for the card title */
+   .job_card-title {
+    font-weight: bold;
+  } 
+  
+  /* Styles for the card description */
+   .job_card-description {
+    font-weight: normal;
+  } 
+  
+  /* Styles for the "See more" button */
+  .job_card-button {
+    background-color: #00acc1;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .job_card-button:hover {
+    background-color: #008ba3;
+    color: #fff;
+  } 
+  .title{
+
+    margin-top:20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    display:flex;
+}
+
+.title span{
+    font-size: 50px;
+    font-family: Garamond, serif;
+}
+/* Styles for the job card container */
+.job-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    flex: 4;
+    justify-content: space-between; /* This will evenly space the cards */
+  }
+  
+  /* Remove marginLeft from .job_card */
+  .job_card {
+    /* ... your existing styles */
+    margin-left: 0; /* Remove marginLeft */
+  }
+  

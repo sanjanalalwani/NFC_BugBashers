@@ -22,6 +22,7 @@ import Module6 from './screens/Module6';
 import Module7 from './screens/Module7';
 import Module8 from './screens/Module8';
 import Module9 from './screens/Module9';
+import Jobs from './screens/Jobs';
 
 function App() {
   return (
@@ -46,7 +47,7 @@ function App() {
           <Route path="/module8" element={<Module8/>} />
           <Route path="/module9" element={<Module9/>} />
         
-        
+          <Route path="/jobs" element={<Jobs/>}/>
         
           <Route path="/community" element={<Community />}/>
           <Route path="/quiz" element={<Quiz/>}/>

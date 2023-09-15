@@ -21,7 +21,7 @@ export default function Home(){
                     <h2>COMMUNITY</h2>
                 </div>
                 </Link>
-                <Link to="/job" className="nav-link" id="tracker">
+                <Link to="/jobs" className="nav-link" id="tracker">
                 <div className="card">
                     <img src="job logo.png" alt="" id="game-icon"/><hr></hr>
                     <h2>JOBS</h2>
