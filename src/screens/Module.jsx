@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 export default function Module(){
     return(
         <div class="mats">
-         <Link to="/expense" class="card1"><div >
+         <Link to="/module1" class="card1"><div >
       <p class="card-title">Module 1: Understanding Income and Expenses</p>
       <p class="small-desc">
       <ul>Lesson 1: Types of Income</ul>
@@ -20,7 +20,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-<Link to="/expense" class="card1"><div >
+<Link to="/module2" class="card1"><div >
       <p class="card-title">Module 2: Budgeting and Saving</p>
       <p class="small-desc">
       <ul>Lesson 1: Creating a Budget</ul>
@@ -36,7 +36,7 @@ export default function Module(){
       </div>
     </div></Link>
 
-<Link to="/expense" class="card1"><div >
+<Link to="/module3" class="card1"><div >
       <p class="card-title">Module 3: Banking and Basic Financial Services</p>
       <p class="small-desc">
       <ul>Lesson 1: Introduction to Banking</ul>
@@ -51,7 +51,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-<Link to="/expense" class="card1"><div >
+<Link to="/module4" class="card1"><div >
       <p class="card-title">Module 4: Practice Net Banking</p>
       <p class="small-desc">
       <ul>Lesson 1: Creating a Budget</ul>
@@ -66,7 +66,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-<Link to="/expense" class="card1"><div >
+<Link to="/module5" class="card1"><div >
       <p class="card-title">Module 5: Managing Debt Responsibly</p>
       <p class="small-desc">
       <ul>Lesson 1: Types of Debt</ul>
@@ -79,7 +79,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-<Link to="/expense" class="card1"><div >
+<Link to="/module6" class="card1"><div >
       <p class="card-title">Module 6: Introduction to Investing</p>
       <p class="small-desc">
       <ul>Lesson 1: Basics of Investing</ul>
@@ -94,7 +94,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-<Link to="/expense" class="card1"><div >
+<Link to="/module7" class="card1"><div >
       <p class="card-title">Module 7: Planning for the Future</p>
       <p class="small-desc">
       <ul>Lesson 1: Retirement Planning</ul>
@@ -109,7 +109,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-<Link to="/expense" class="card1"><div >
+<Link to="/module8" class="card1"><div >
       <p class="card-title">Module 8: Financial Literacy and Legal Rights</p>
       <p class="small-desc">
       <ul>Lesson 1: Consumer Rights and Responsibilities</ul>
@@ -124,7 +124,7 @@ export default function Module(){
         <div class="go-arrow">→</div>
       </div>
     </div></Link>
-<Link to="/expense" class="card1"><div >
+<Link to="/module9" class="card1"><div >
       <p class="card-title">Module 9: Navigating Government Programs and Resources</p>
       <p class="small-desc">
       <ul>Lesson 1: Accessing Government Assistance</ul>

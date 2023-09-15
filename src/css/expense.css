@@ -136,7 +136,7 @@ input[type='number'] {
     padding: 20px;
   }
   .info{
-      background: linear-gradient(grey,grey,grey,grey);
+      border: 1px solid black;
       width: 500px;
       height: 400px;
       padding: 30px;
@@ -144,7 +144,7 @@ input[type='number'] {
       margin-top: 40px;
   }
   .info p{
-    
+    margin:10px;
   }
   .dabba {
     margin-left: 400px;
@@ -153,5 +153,4 @@ input[type='number'] {
     width: 400px;
     height: 650px;
     border: 2px solid black;
-    background: linear-gradient(rgb(215, 212, 214) rgb(165, 163, 163) rgb(122, 120, 120));
   }

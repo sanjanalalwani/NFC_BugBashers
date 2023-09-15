@@ -8,7 +8,7 @@ import Login from './screens/Login';
 import Footer from './screens/Footer';
 import Expense from './screens/Expense';
 import Module from './screens/Module';
-
+import Module1 from './screens/Module1';
 
 
 function App() {
@@ -24,6 +24,7 @@ function App() {
           <Route path="/expense"element={<Expense />}/>
           <Route path="/login" element={<Login />} />
           <Route path="/module" element={<Module />} />
+          <Route path="/module1" element={<Module1/>} />
         </Routes>
        
         <Footer />
