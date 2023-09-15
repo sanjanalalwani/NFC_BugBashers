@@ -28,7 +28,7 @@ export default function Home(){
               </Link>
                 </div>
                 <div className="card">
-                    <img src="" alt="" /><hr></hr>
+                    <img src="quiz icon.png" alt="" id="quiz-icon"/><hr></hr>
                     <h2>QUIZ</h2>
                 </div>
             </div>
