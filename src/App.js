@@ -7,6 +7,7 @@ import Contact from './screens/Contact';
 import Login from './screens/Login';
 import Footer from './screens/Footer';
 import Expense from './screens/Expense';
+import Module from './screens/Module';
 
 
 
@@ -22,6 +23,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/expense"element={<Expense />}/>
           <Route path="/login" element={<Login />} />
+          <Route path="/module" element={<Module />} />
         </Routes>
        
         <Footer />

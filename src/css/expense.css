@@ -5,7 +5,7 @@ h1 {
   
   h3 {
     border-bottom: 1px solid #bbb;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
     margin: 40px 0 10px;
   }
   
@@ -131,3 +131,6 @@ input[type='number'] {
     width: 350px;
   }
   
+  .dabba {
+    margin-top: 10px;
+  }
