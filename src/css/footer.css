@@ -34,3 +34,21 @@
     font-weight: lighter;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.icons{
+    width: 300px;
+    margin-left: 650px;
+}
+
+.icons ion-icon{
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+    transition: 0.7s ease-in-out;
+}
+
+.icons ion-icon:hover{
+    color: rgb(43, 125, 206);
+
+}

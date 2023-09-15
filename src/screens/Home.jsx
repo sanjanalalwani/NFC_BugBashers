@@ -22,9 +22,9 @@ export default function Home(){
                     <h2>GAME</h2>
                 </div>
                 <div className="card">
-                    <img src="" alt="" /><hr></hr>
-                    <Link to="/expense" className="nav-link">
-                <h2>Expense Tracker</h2>
+                    <img src="expense tracker icon.jpg" alt="" /><hr></hr>
+                    <Link to="/expense" className="nav-link" id="tracker">
+                <h2>EXPENSE TRACKER</h2>
               </Link>
                 </div>
                 <div className="card">
