@@ -26,3 +26,19 @@
     font-weight: bold;
     font-family: 'Tiro Devanagari Hindi', serif;
 }
+
+.cards{
+    margin: 10px;
+    display: flex;
+}
+
+.card{
+    height: 180px;
+    width:300px;
+}
+
+.card h2{
+    text-align: center;
+    font-family: Garamond, serif;
+    font-size: 20px;
+}
