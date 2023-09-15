@@ -18,27 +18,26 @@ export default function TopBar() {
         <ul className="topList">
           <li className="topListItem">
             <Link to="/home" className="nav-link active" aria-current="page">
-              Home
+              HOME
             </Link>
           </li>
           <li className="topListItem">
             <Link to="/about" className="nav-link">
-              About
+              ABOUT
             </Link>
           </li>
           <li className="topListItem">
             <Link to="/contact" className="nav-link">
-              Contact
+              CONTACT
             </Link>
           </li>
           <li className="topListItem">
             <Link to="/login" className="nav-link">
-              Login
+              LOGIN
             </Link>
           </li>
         </ul>
       </div>
-      <div className="topRight">profile and search bar</div>
       <Outlet /> {/* This is where nested routes will be rendered */}
     </div>
     </>
