@@ -21,10 +21,10 @@ export default function Home(){
                     <h2>COMMUNITY</h2>
                 </div>
                 </Link>
-                <Link to="/game" className="nav-link" id="tracker">
+                <Link to="/job" className="nav-link" id="tracker">
                 <div className="card">
                     <img src="game icon.png" alt="" id="game-icon"/><hr></hr>
-                    <h2>GAME</h2>
+                    <h2>JOBS</h2>
                 </div>
                 </Link>
                 <Link to="/expense" className="nav-link" id="tracker">
@@ -43,5 +43,14 @@ export default function Home(){
 {/*1. cards of modules  and all - home page
  1. Modules 2. Expense Tracker 3.Game 4.Community 5.Quiz */}
         </div>
+    //     <>
+    //     sufsfsdfsadfadsfdsfdsshS
+    //     <iframe
+    //     src="http://localhost:3001/"
+    //     title="External Content"
+    //     width="800"
+    //     height="600"
+    //   ></iframe>
+    //     </>
     )
 }
