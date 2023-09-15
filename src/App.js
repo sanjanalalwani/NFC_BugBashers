@@ -8,6 +8,12 @@ import Login from './screens/Login';
 import Footer from './screens/Footer';
 import Expense from './screens/Expense';
 import Module from './screens/Module';
+import Community from './screens/Community';
+import Quiz from './screens/Quiz';
+
+
+
+
 import Module1 from './screens/Module1';
 import Module2 from './screens/Module2';
 import Module3 from './screens/Module3';
@@ -32,13 +38,8 @@ function App() {
           <Route path="/module" element={<Module />} />
           <Route path="/module1" element={<Module1/>} />
           <Route path="/module2" element={<Module2/>} />
-          <Route path="/module3" element={<Module3/>} />
-          <Route path="/module5" element={<Module5/>} />
-          <Route path="/module6" element={<Module6/>} />
-          <Route path="/module7" element={<Module7/>} />
-          <Route path="/module8" element={<Module8/>} />
-          <Route path="/module9" element={<Module9/>} />
-    
+          <Route path="/community" element={<Community />}/>
+          <Route path="/quiz" element={<Quiz/>}/>
         </Routes>
        
         <Footer />
