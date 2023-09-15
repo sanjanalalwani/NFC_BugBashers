@@ -20,8 +20,7 @@ export default function Home(){
                     <img src="new community icon.png" alt="" id="com-icon"/><hr></hr>
                     <h2>COMMUNITY</h2>
                 </div>
-                </Link>
-                <Link to="/jobs" className="nav-link" id="tracker">
+
                 </a>
                 <Link to="/job" className="nav-link" id="tracker">
                 <div className="card">
@@ -37,7 +36,7 @@ export default function Home(){
               </Link>
               <Link to="/resources" className="nav-link" id="tracker">
                 <div className="card">
-                    <img src="quiz icon.png" alt="" id="quiz-icon"/><hr></hr>
+                    <img src="resources.jpg" alt="" id="quiz-icon"/><hr></hr>
                     <h2>RESOURCES</h2>
                 </div>
                 </Link>
