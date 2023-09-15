@@ -28,9 +28,9 @@ export default function TopBar() {
               </Link>
             </li>
             <li className="topListItem">
-              <Link to="/login" className="nav-link">
+              <a href="http://127.0.0.1:8000/login/">
                 LOGIN
-              </Link>
+                </a>
             </li>
            
           </ul>
