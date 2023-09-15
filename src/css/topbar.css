@@ -8,14 +8,27 @@
     align-items: center;
 }
 
- .topRight{
+
+.topRight{
     flex: 3;
    display: flex;
    align-items: center;
    justify-content: center;
 }
-.topLeft{
-    flex:3;
+
+
+.topLeft img{
+    margin-left: 15px;
+    width:45px;
+}
+
+.topLeft a{
+    position: absolute;
+    top:9px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: 1000;
+    font-size: 25px;
 }
 .menu-bars{
     margin-left: 2rem;
