@@ -23,7 +23,7 @@ export default function Home(){
                 </Link>
                 <Link to="/job" className="nav-link" id="tracker">
                 <div className="card">
-                    <img src="game icon.png" alt="" id="game-icon"/><hr></hr>
+                    <img src="job logo.png" alt="" id="game-icon"/><hr></hr>
                     <h2>JOBS</h2>
                 </div>
                 </Link>
