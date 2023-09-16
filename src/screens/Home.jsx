@@ -28,10 +28,10 @@ export default function Home(){
                     <h2>JOBS</h2>
                 </div>
                 </Link>
-                <Link to="/expense" className="nav-link" id="tracker">
+                <Link to="/quiz" className="nav-link" id="tracker">
                 <div className="card">
-                    <img  src="new expense tracker icon.jpg" alt="" id="expense-icon"/><hr></hr>
-                <h2>EXPENSE TRACKER</h2>
+                    <img  src="quiz icon.png" alt="" id="expense-icon"/><hr></hr>
+                <h2>QUIZ</h2>
                 </div>
               </Link>
               <Link to="/resources" className="nav-link" id="tracker">
