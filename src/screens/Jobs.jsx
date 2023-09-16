@@ -16,11 +16,7 @@ export default function Jobs() {
               Food Service <br /> Worker{" "}
             </h1>
             <p>
-              <i
-                class="fa-solid fa-location-dot"
-              >
-                Mumbai
-              </i>
+             
             </p>
           </div>
           <div class="jpb_card-content">
@@ -39,11 +35,7 @@ export default function Jobs() {
               Recycling Center <br /> Worker{" "}
             </h1>
             <p>
-              <i
-                class="fa-solid fa-location-dot"
-              >
-                Mumbai
-              </i>
+             
             </p>
           </div>
           <div class="jpb_card-content">
@@ -61,11 +53,7 @@ export default function Jobs() {
               Food Service <br /> Worker{" "}
             </h1>
             <p>
-              <i
-                class="fa-solid fa-location-dot"
-              >
-                Mumbai
-              </i>
+            
             </p>
           </div>
           <div class="jpb_card-content">
@@ -83,11 +71,6 @@ export default function Jobs() {
               Food Service <br /> Worker{" "}
             </h1>
             <p>
-              <i
-                class="fa-solid fa-location-dot"
-              >
-                Mumbai
-              </i>
             </p>
           </div>
           <div class="jpb_card-content">
@@ -106,11 +89,6 @@ export default function Jobs() {
               Food Service <br /> Worker{" "}
             </h1>
             <p>
-              <i
-                class="fa-solid fa-location-dot"
-              >
-                Mumbai
-              </i>
             </p>
           </div>
           <div class="jpb_card-content">
@@ -129,11 +107,7 @@ export default function Jobs() {
               Food Service <br /> Worker{" "}
             </h1>
             <p>
-              <i
-                class="fa-solid fa-location-dot"
-              >
-                Mumbai
-              </i>
+            
             </p>
           </div>
           <div class="jpb_card-content">
@@ -152,11 +126,6 @@ export default function Jobs() {
               Food Service <br /> Worker{" "}
             </h1>
             <p>
-              <i
-                class="fa-solid fa-location-dot"
-              >
-                Mumbai
-              </i>
             </p>
           </div>
           <div class="jpb_card-content">

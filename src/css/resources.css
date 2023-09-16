@@ -30,7 +30,7 @@
 }
 
 .rcard p{
-    margin:10px;
+    margin-left: 30px;
 }
 
 .head{
@@ -60,4 +60,8 @@
 #mf{
 margin-left: 70px;
 width: 140px;
+}
+
+.rcard h2{
+    text-align: center;
 }
