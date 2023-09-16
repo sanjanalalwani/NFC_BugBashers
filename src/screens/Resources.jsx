@@ -7,7 +7,7 @@ export default function Resources(){
 <div className="boxy">
         <div className="head">RESOURCES</div>
     <div className="dabba1">
-        <a href="">
+        <a href="https://www.axisbank.com/">
         <div className="rcard">
             <img src="axis logo.png" alt="" />
         <h2>Axis Bank </h2>
@@ -15,7 +15,7 @@ export default function Resources(){
 
         </div>
         </a>
-        <a href="">
+        <a href="https://www.hdfcbank.com/">
         <div className="rcard">
             <img src="hdfc logo.png" alt="" />
         <h2>HDFC Bank</h2>
@@ -23,7 +23,7 @@ export default function Resources(){
             
         </div>
         </a>
-        <a href="">
+        <a href="https://www.icicibank.com/">
         <div className="rcard">
             <img src="icici logo.png" alt="" />
         <h2>ICICI Bank</h2>
@@ -31,7 +31,7 @@ export default function Resources(){
             
         </div>
         </a>
-        <a href="">
+        <a href="https://www.kotak.com/en/home.html">
         <div className="rcard">
             <img src="kotak logo.png" alt="" id="kotak"/>
         <h2>Kotak Mahindra Bank</h2>
